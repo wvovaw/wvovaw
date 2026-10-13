@@ -1,15 +1,28 @@
 I used to work with:
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,react,vue,sass,tailwind,nuxt,astro,vite,webpack,vitest,nodejs,bun,nestjs,sqlite,postgres,redis,docker&perline=11" alt="tech stack" />
-</a>
-
 <p>
-  <img src="https://img.shields.io/badge/-black?logo=preact&logoColor=673AB8" height="47" alt="preact" />
-  <img src="https://img.shields.io/badge/-black?logo=mobx&logoColor=FF9955" height="47" alt="mobx" />
-  <img src="https://img.shields.io/badge/-black?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzJFQUQzMyI+PHBhdGggZD0iTTIzLjg1IDYuMzRhMy43NCAzLjc0IDAgMCAwLTMuNjItMy4yYy0uMTggMC0uMzggMC0uNi4wNkEzLjY0IDMuNjQgMCAwIDAgMTYgMy40MSAxMy4yOCAxMy4yOCAwIDAgMCAxMiAyLjg1YTEzLjI4IDEzLjI4IDAgMCAwLTQgLjU2IDMuNjQgMy42NCAwIDAgMC0zLjYzLTIuMjFjLS4yMi0uMDYtLjQyLS4wNi0uNi0uMDZBMy43NCAzLjc0IDAgMCAwIC4xNSA2LjM0Yy0uMjkgMS40Ny0uMzkgMi45OS0uMTUgNC41MmEzLjE0IDMuMTQgMCAwIDAgMy4yIDIuNzJjLjU2LS4wMiAxLjEyLS4xNSAxLjY0LS4zN0ExMy4zNCAxMy4zNCAwIDAgMCA4LjQgMTUuMmMtLjIzLS40Ni0uMzQtLjk3LS4zNC0xLjQ4YTYuNzEgNi43MSAwIDAgMSAxLjkxLTQuNzIgNi40MSA2LjQxIDAgMCAxIDQuODYtMS45MyA2LjQxIDYuNDEgMCAwIDEgNC44NiAxLjkzIDYuNzEgNi43MSAwIDAgMSAxLjkxIDQuNzJjMCAuNTEtLjExIDEuMDItLjM0IDEuNDhhMTMuMzQgMTMuMzQgMCAwIDAgMy41NS0xLjk5Yy41Mi4yMiAxLjA4LjM1IDEuNjQuMzdhMy4xNCAzLjE0IDAgMCAwIDMuMi0yLjcyYy4yNC0xLjUzLjE0LTMuMDUtLjE1LTQuNTJaIi8+PC9zdmc+" height="47" alt="playwright" />
-  <img src="https://img.shields.io/badge/-black?logo=fastify&logoColor=white" height="47" alt="fastify" />
-  <img src="https://img.shields.io/badge/-black?logo=hono&logoColor=E36002" height="47" alt="hono" />
+  <img src="https://cdn.simpleicons.org/typescript" height="45" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/react" height="45" alt="React" />
+  <img src="https://cdn.simpleicons.org/preact" height="45" alt="Preact" />
+  <img src="https://cdn.simpleicons.org/vuedotjs" height="45" alt="Vue" />
+  <img src="https://cdn.simpleicons.org/sass" height="45" alt="SCSS" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" height="45" alt="Tailwind" />
+  <img src="https://cdn.simpleicons.org/nuxt" height="45" alt="Nuxt" />
+  <img src="https://cdn.simpleicons.org/astro" height="45" alt="Astro" />
+  <img src="https://cdn.simpleicons.org/mobx" height="45" alt="MobX" />
+  <img src="https://cdn.simpleicons.org/vite" height="45" alt="Vite" />
+  <img src="https://cdn.simpleicons.org/webpack" height="45" alt="Webpack" />
+  <img src="https://cdn.simpleicons.org/vitest" height="45" alt="Vitest" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="45" alt="Playwright" />
+  <img src="https://cdn.simpleicons.org/nodedotjs" height="45" alt="Node.js" />
+  <img src="https://cdn.simpleicons.org/bun" height="45" alt="Bun" />
+  <img src="https://cdn.simpleicons.org/fastify" height="45" alt="Fastify" />
+  <img src="https://cdn.simpleicons.org/hono" height="45" alt="Hono" />
+  <img src="https://cdn.simpleicons.org/nestjs" height="45" alt="Nest.js" />
+  <img src="https://cdn.simpleicons.org/sqlite" height="45" alt="SQLite" />
+  <img src="https://cdn.simpleicons.org/postgresql" height="45" alt="Postgres" />
+  <img src="https://cdn.simpleicons.org/redis" height="45" alt="Redis" />
+  <img src="https://cdn.simpleicons.org/docker" height="45" alt="Docker" />
 </p>
 
 <picture>
